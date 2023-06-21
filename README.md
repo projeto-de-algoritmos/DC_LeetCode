@@ -10,7 +10,7 @@
 
 
 ## Sobre 
-Este repositório contém a resolução de 3 exercicios relacionados a Algoritmos de divisão e conquista, contemplando os algoritmos mergeSort, quickSelect, e megeSort para contagem de inversões. Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
+Este repositório contém a resolução de 3 exercicios relacionados a Algoritmos de divisão e conquista, contemplando os algoritmos mergeSort, quickSelect, e mergeSort para contagem de inversões. Os Exercicios realizados foram retirados do [LeetCode](https://leetcode.com/)
 
 ## [Link da Apresentação](https://youtu.be/GmY2U4qgBOM)
 
